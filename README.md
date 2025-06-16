@@ -1,5 +1,3 @@
-# docs-crm
-
 ## Documentación
 
 - [Tecnologías](tecnologias/)
